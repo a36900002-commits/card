@@ -1,0 +1,95 @@
+body{
+    background-color: black;
+}
+.Начало {
+    background-color: cadetblue;
+    height: 150px;
+     margin-top: 30px;
+     border-radius: 20px;
+     width: 500px;
+     margin-left: 20px;
+}
+h1 {
+    margin-left: 100px;
+}
+P {
+    margin-left: 10px;
+    font-size:20px;
+}
+.Начало:hover{
+    background-color:green;
+}
+.хобби {
+     background-color: cadetblue;
+     margin-top: 30px;
+     border-radius: 20px;
+     width: 500px;
+     margin-left: 20px;
+     
+}
+.Мои-хобби {
+    border-radius: 20PX;
+    margin-left: 150PX;
+}
+.Какие-хобби{
+   margin: 20px;
+}
+.хобби:hover{
+    background-color: green;
+}
+.планы {
+     background-color: cadetblue;
+     margin-top: 30px;
+     border-radius: 20px;
+     width: 500px;
+     margin-left: 20px;
+}
+.Планы-на-июнь {
+    border-radius: 20PX;
+    margin-left: 150PX;
+}
+.какие-планы {
+    margin: 20px;
+}
+.планы:hover {
+    background-color: green;
+}
+
+.Ноутбук {
+    background-color: cadetblue;
+     margin-top: 30px;
+     border-radius: 20px;
+     width: 500px;
+     margin-left: 20px;
+}
+.На-чём-я-учусь{
+    border-radius: 20PX;
+    margin-left: 150PX;
+}
+.комплектухи{
+     margin: 20px;
+}
+.Ноутбук:hover{
+    background-color: green;
+}
+.Вопросы{
+    background-color: cadetblue;
+     margin-top: 40px;
+     border-radius: 20px;
+     width: 500px;
+     margin-left: 20px;
+     height: 150px;
+}
+label {
+    margin-left: 10px;
+}
+input{
+    padding: 3px;
+    border-radius: 20px;
+}
+.Пк{
+    margin-left:50px ;
+}
+.Вопросы:hover{
+    background-color:green;
+}
